@@ -1,1 +1,1 @@
-# CashierRestaurant
+# Restaurant
